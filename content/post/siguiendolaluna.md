@@ -7,7 +7,7 @@ nomenu:
     parent: proyectos
 title: siguiendo-la-luna
 weight: 10
-image: img/siguiendo la luna.png
+image: img/ssiguiendo la luna.png.png
 authorAvatar: la-jauria.png
 ---
 <iframe src="https://player.vimeo.com/video/105212396" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
