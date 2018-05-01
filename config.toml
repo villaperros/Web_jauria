@@ -1,0 +1,50 @@
+baseurl         = "/"
+theme           = "hugo-casper-two"
+languageCode    = "es-ES"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = ""
+  subtitle    = ""
+  copyright   = " es libre de copia y distribución - 2018"
+
+  cover       = "/img/logojauria.svg"
+  description = "Este sitio pretende dar a conocer el trabajo realizado en La Jauria, además de permitir la comunicación ágil."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  youtube = "UCGXVQ6HSCHy9Mw3XwANYnJw?view_as=subscriber"
+  fbName = "juguetesjauria"
+  instagramLink = "lajauria_circuit_orchestra/?hl=es-la"
+  githubName = "villaperros"
+
+  logo = "jauria.png"
+  orgName = "La Jauria"
+  orgWebsite = "https://www.lajauria.net"
+  orgDescription = ""
+
+  showSupport = true
+
+  author = "La Jauria"
+  authorAvatar = "la-jauria.png"
+  authorLocation = ""
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/"
+  weight = 200
